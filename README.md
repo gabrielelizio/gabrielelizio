@@ -56,6 +56,9 @@ Automação E2E com Cypress, fundamentada nos princípios **SOLID** e **DRY**, p
 
 - **APIServerRest**
   Projeto focado em testes automatizados de APIs com JavaScript e frameworks modernos (como PactumJS). Ideal para aplicações backend com cenários de integração e contrato.
+  
+- **K6**
+  Repositório dedicado a automação de Testes de Performance usando K6, com exemplos práticos e abordagem orientada a manutenção.
 
 - **PlaywrightMCP**
   Estrutura de testes E2E criada com Playwright(MCP) e TypeScript, suportando múltiplos navegadores e com arquitetura sustentável para testes web.
