@@ -4,7 +4,7 @@
 
 ## 🧭 Sobre mim
 
-Sou um profissional de QA e Automação de Testes com mais de 5 anos de experiência, atuando na garantia de qualidade de produtos digitais através de testes manuais e automação robusta. Meu foco é construir estruturas escaláveis, eficientes e fáceis de manter — valorizando entregas seguras e impactantes.
+Sou um profissional de QA e Automação de Testes com mais de 5 anos de experiência, atuando na garantia de qualidade de produtos digitais através de testes manuais e automação robusta. Meu foco é construir estruturas escaláveis, eficientes e fáceis de manter valorizando entregas seguras e impactantes.
 
 ---
 
