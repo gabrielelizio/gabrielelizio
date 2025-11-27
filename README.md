@@ -4,7 +4,7 @@
 
 ## 🧭 Sobre mim
 
-Sou um profissional de QA e Automação de Testes com mais de 5 anos de experiência, atuando na garantia de qualidade de produtos digitais através de testes manuais e automação robusta. Meu foco é construir estruturas escaláveis, eficientes e fáceis de manter valorizando entregas seguras e impactantes.
+Profissional de QA e Automação de Testes com 5 anos de experiência em planejamento, elaboração e execução de planos de teste. Expertise na criação de cenários e casos de teste detalhados, avaliação de riscos e garantia da qualidade de software conforme requisitos e padrões estabelecidos. Sólida atuação com automação de testes utilizando ferramentas como Cypress, Selenium, Robot Framework e TestComplete.
 
 ---
 
